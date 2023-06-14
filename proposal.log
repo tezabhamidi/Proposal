@@ -1,16 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.7)  14 JUN 2023 14:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.7)  14 JUN 2023 14:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/teza/Documents/PhD/Thesis/RPS/Proposal/RPS_source.tex
-(/Users/teza/Documents/PhD/Thesis/RPS/Proposal/RPS_source.tex
+**/Users/teza/Documents/PhD/Thesis/RPS/Proposal/proposal.tex
+(/Users/teza/Documents/PhD/Thesis/RPS/Proposal/proposal.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-05-22> (./common/iiththesis.cls
-
-LaTeX Warning: You have requested document class `common/iiththesis',
-               but the document class provides `iiththesis'.
-
+L3 programming layer <2023-05-22> (./iiththesis.cls
 Document Class: iiththesis 2021/09/02 v1.3 IIT Hyderabad Thesis class
 (/usr/local/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
@@ -381,11 +377,11 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \colbreak@box=\box110
 \mc@col@check@num=\count299
 ))
-\RPS_source@idxfile=\write4
-\openout4 = `RPS_source.idx'.
+\proposal@idxfile=\write4
+\openout4 = `proposal.idx'.
 
 
-Writing index file RPS_source.idx
+Writing index file proposal.idx
 (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2023-05-16 v7.00y Hypertext links for LaTeX
  (/usr/local/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
@@ -498,7 +494,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 Package hyperref Info: Option `colorlinks' set `true' on input line 558.
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/import/import.sty
 Package: import 2020/04/01  v 6.2
-) (./common/preamble.tex (/usr/local/texlive/2023/texmf-dist/tex/latex/xifthen/xifthen.sty
+) (./preamble.tex (/usr/local/texlive/2023/texmf-dist/tex/latex/xifthen/xifthen.sty
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
  (/usr/local/texlive/2023/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
@@ -791,16 +787,6 @@ Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-)
-Package biblatex Info: Trying to load BibTeX backend compatibility...
-Package biblatex Info: ... file 'blx-bibtex.def' found.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-bibtex.def
-File: blx-bibtex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-
-
-Package biblatex Warning: Using fall-back bibtex backend:
-(biblatex)                functionality may be reduced/unavailable.
-
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
@@ -1221,7 +1207,7 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@pps=\count508
 \c@@ppsavesec=\count509
 \c@@ppsaveapp=\count510
-) (./common/refs.tex)
+) (./refs.tex)
 \c@definition=\count511
 )
 \@quotelevel=\count512
@@ -1231,8 +1217,8 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 LaTeX Warning: Unused global option(s):
     [department=ai,degree=phd,book=proposal,backref=page,spacing=single,department,degree,book,spacing].
 
-(./RPS_source.aux)
-\openout1 = `RPS_source.aux'.
+(./proposal.aux)
+\openout1 = `proposal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
@@ -1292,22 +1278,35 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
 Package hyperref Info: Link coloring ON on input line 18.
+ (./proposal.out) (./proposal.out)
 \@outlinefile=\write7
-\openout7 = `RPS_source.out'.
+\openout7 = `proposal.out'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 18.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 18.
 
 
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 18.
 
-/Users/teza/Documents/PhD/Thesis/RPS/Proposal/RPS_source.tex:18: LaTeX Error: Command \copyright unavailable in encoding T1.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 \begin{document}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 18.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 18.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <56.9055> not available
@@ -1315,7 +1314,7 @@ LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <56.9055> not available
 
 [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 
-]
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: listings package is loaded.
@@ -1328,14 +1327,11 @@ File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Data encoding 'ascii' specified.
 (biblatex)             No need to reencode data.
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Data encoding 'ascii' specified.
-(biblatex)             No need to reencode data.
-\openout6 = `RPS_source-blx.bib'.
+\openout6 = `proposal.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'RPS_source.bbl' found.
- (./RPS_source.bbl)
+Package biblatex Info: ... file 'proposal.bbl' found.
+ (./proposal.bbl)
 Package biblatex Info: Reference section=0 on input line 18.
 Package biblatex Info: Reference segment=0 on input line 18.
 \c@lstlisting=\count520
@@ -1349,17 +1345,10 @@ Package pgfplots notification 'compat/show suggested version=true': you might be
 
 
 
-] [2] [3] [4] [5] [6] [7]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 93.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 93.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+stmry on input line 93.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+]
+
+LaTeX Warning: Empty bibliography on input line 25.
+
 
 Package caption Warning: Unused \captionsetup[table] on input line 14.
 See the caption package documentation for explanation.
@@ -1380,50 +1369,30 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[subfigure] on input line 70.
 See the caption package documentation for explanation.
 
-[8
-
-
-] (./RPS_source.aux)
+(./proposal.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 21.0755pt have occurred.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `RPS_source.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `RPS_source.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  C53C2E27B427A8B6AB256EF3C6C687B7;1699.
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                RPS_source
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'RPS_source.run.xml'.
-\openout1 = `RPS_source.run.xml'.
+Package rerunfilecheck Info: File `proposal.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package logreq Info: Writing requests to 'proposal.run.xml'.
+\openout1 = `proposal.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47812 strings out of 476038
- 1066633 string characters out of 5790171
- 1874877 words of memory out of 5000000
- 67450 multiletter control sequences out of 15000+600000
- 528968 words of font info for 69 fonts, out of 8000000 for 9000
+ 47483 strings out of 476038
+ 1060197 string characters out of 5790171
+ 1912615 words of memory out of 5000000
+ 67167 multiletter control sequences out of 15000+600000
+ 528560 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,12n,127p,1969b,1640s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm3583.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on RPS_source.pdf (9 pages, 186332 bytes).
+ 117i,12n,127p,1179b,854s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm3583.pfb>
+Output written on proposal.pdf (2 pages, 78156 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
- 42 named destinations out of 1000 (max. 500000)
+ 50 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

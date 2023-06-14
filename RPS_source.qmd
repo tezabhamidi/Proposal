@@ -1,10 +1,10 @@
 ---
 title: "Machine Learning for Electronic Warfare"
 author: "Bhamidi Subrahmanya Teza"
-bibliography: 'common/references.bib'
+bibliography: 'references.bib'
 format:
   pdf:
-    template: 'common/proposal.tex'
+    template: 'proposal.tex'
     cite-method: biblatex
 ---
 

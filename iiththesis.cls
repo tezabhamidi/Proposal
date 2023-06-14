@@ -321,7 +321,7 @@ single,onehalf,double}[onehalf]{%
     \vspace*{.4in}
     \begin{center}
       \begin{small}
-        {\bf \copyright{ }\the\year{} by \@author} \\
+        {\bf \textcopyright{ }\the\year{} by \@author} \\
         {\bf All rights reserved}
       \end{small}
     \end{center}
