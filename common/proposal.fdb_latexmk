@@ -1,0 +1,14 @@
+# Fdb version 4
+["pdflatex"] 1686727026 "/Users/teza/Documents/PhD/Thesis/RPS/Proposal/common/proposal.tex" "proposal.pdf" "proposal" 1686727026 2
+  "/Users/teza/Documents/PhD/Thesis/RPS/Proposal/common/proposal.tex" 1686727025 621 dfb1cabfd18b329c048a51fdae03265f ""
+  "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1681165822 40967 d940221f8762fd5848760382d97d1226 ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1686099242 7892100 5821949830ae3637d5b59f752ffa80ad ""
+  "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
+  "common/iiththesis.cls" 0 -1 0 ""
+  "proposal.aux" 1686727026 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "proposal.tex" 1686727025 621 dfb1cabfd18b329c048a51fdae03265f ""
+  (generated)
+  "proposal.aux"
+  "proposal.log"
+  "proposal.pdf"
+  (rewritten before read)

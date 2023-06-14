@@ -546,7 +546,7 @@ single,onehalf,double}[onehalf]{%
 % --ubora : DO NOT Change the following
 % Putting hyperref before \LoadClass results in
 % a known error regarding \maketitle already defined
-\RequirePackage{hyperref}
+\RequirePackage[pagebackref=false]{hyperref}
 \hypersetup{
   colorlinks,
   linkcolor={red!50!black},

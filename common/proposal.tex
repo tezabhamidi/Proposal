@@ -1,10 +1,10 @@
-\documentclass[department=cse,degree=phd,book=proposal,backref=page,spacing=single]{common/iiththesis}
-\title{Title of your thesis}
+\documentclass[department=ai,degree=phd,book=proposal,backref=page,spacing=single]{common/iiththesis}
+\title{$title$}
 \submitted{\today}
-\author{Authorname}
-\rollno{IITH Rollno}
-\adviser{Dr. ABC}
-\addradviser{Dept. of \department}
+\author{$author$}
+\rollno{AI22RESCH14001}
+\adviser{Dr. K Sri Rama Murty}
+\addradviser{Dept. of Electrical Engineering and Artificial Intelligence}
 \coguide{Dr. XYZ}
 \addrcoguide{Dept. of \department}
 
@@ -22,7 +22,5 @@ $body$
 %% Synopsis End
 \clearpage
 \newpage
-\bibliographystyle{iiththesis}
-\bibliography{common/references}
-
+\printbibliography[title={References}]
 \end{document}

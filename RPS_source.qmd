@@ -1,5 +1,6 @@
 ---
 title: "Machine Learning for Electronic Warfare"
+author: "Bhamidi Subrahmanya Teza"
 bibliography: 'common/references.bib'
 format:
   pdf:
@@ -22,11 +23,13 @@ format:
 ## Problem Statement
 
 {{< pagebreak >}}
+
 # Literature Survey {.unnumbered}
 
-Hi 
+Hi [@Aho:book:2006]
 
 {{< pagebreak >}}
+
 # Preliminary Studies {.unnumbered}
 
 ## Mathematical Modelling
@@ -34,6 +37,7 @@ Hi
 ## Simulation Studies
 
 {{< pagebreak >}}
+
 # Research Proposal {.unnumbered}
 
 ## Questions/Topics for exploration
@@ -41,9 +45,11 @@ Hi
 ## Thesis Plan
 
 {{< pagebreak >}}
+
 # Summary {.unnumbered}
 
 {{< pagebreak >}}
+
 # Conclusion {.unnumbered}
 
 {{< pagebreak >}}
