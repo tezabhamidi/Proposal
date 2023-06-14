@@ -1,0 +1,52 @@
+---
+title: "Machine Learning for Electronic Warfare"
+bibliography: 'common/references.bib'
+format:
+  pdf:
+    template: 'common/proposal.tex'
+    cite-method: biblatex
+---
+
+# Abstract {.unnumbered}
+
+{{< pagebreak >}}
+
+# Introduction {.unnumbered}
+
+## Background
+
+### RADARs
+
+### AI, Machine Learning, Deep Learning
+
+## Problem Statement
+
+{{< pagebreak >}}
+# Literature Survey {.unnumbered}
+
+Hi 
+
+{{< pagebreak >}}
+# Preliminary Studies {.unnumbered}
+
+## Mathematical Modelling
+
+## Simulation Studies
+
+{{< pagebreak >}}
+# Research Proposal {.unnumbered}
+
+## Questions/Topics for exploration
+
+## Thesis Plan
+
+{{< pagebreak >}}
+# Summary {.unnumbered}
+
+{{< pagebreak >}}
+# Conclusion {.unnumbered}
+
+{{< pagebreak >}}
+
+
+
