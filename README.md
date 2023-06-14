@@ -1,6 +1,6 @@
 # IIT Hyderabad PhD Proposal template for Quarto users
 
-This is a Quarto (https://quarto.org) compatible template forked from Utpal Bora (). 
+This is a Quarto (https://quarto.org) compatible template forked from Utpal Bora (https://github.com/utpalbora/IITHThesis). 
 
 Quarto is an open-source scientific and technical publishing system based on Markdown and Pandoc with which one can:
 
@@ -12,4 +12,4 @@ Quarto is an open-source scientific and technical publishing system based on Mar
 
 Hope those in IITH using Quarto, find it useful. :)
 
-Note: The thesis class has very minor tweaks which were required to make the bibtex citations work.
+Note: The thesis class has very minor tweaks which were required to make the bibtex citations work. 
