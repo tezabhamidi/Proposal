@@ -1,6 +1,6 @@
 ---
-title: "Machine Learning for Electronic Warfare"
-author: "Bhamidi Subrahmanya Teza"
+title: "Proposal Title"
+author: "Author"
 bibliography: 'references.bib'
 format:
   pdf:
@@ -16,9 +16,6 @@ format:
 
 ## Background
 
-### RADARs
-
-### AI, Machine Learning, Deep Learning
 
 ## Problem Statement
 
